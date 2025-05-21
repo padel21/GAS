@@ -1,0 +1,35 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+.container-navbar {
+    background-color: grey;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.li-navbar {
+    border:  1px solid black;
+    list-style-type: none;
+    margin: 30px;
+    padding: 10px;
+    background: white;
+}
+.container-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-img {
+    width: 30%;
+    height: 40%;
+}
+.container-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
